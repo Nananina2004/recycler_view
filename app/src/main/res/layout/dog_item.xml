@@ -10,6 +10,7 @@
         android:id="@+id/dogItemImageView"
         android:layout_width="60dp"
         android:layout_height="60dp"
+
         android:layout_marginStart="10dp"
         app:srcCompat="@drawable/dog_side_view_svgrepo_com"
         app:layout_constraintStart_toStartOf="parent"
